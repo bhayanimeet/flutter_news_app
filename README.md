@@ -60,6 +60,10 @@ https://github.com/bhayanimeet/flutter_news_app/assets/121868259/c1b25dae-b61a-4
 <img src="https://github.com/bhayanimeet/flutter_news_app/assets/121868259/aa69d6cb-89d8-403a-9621-530c1af50a68" width="220px">
 
 
+- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
+- This project is [MIT](LICENSE.md) Licensed.
+
+
 
 <h1 align="center">Made with ❤️ in India.</h1>
 <h3 align="center">You can show some respect by starring 🌟 the repository!</h3>
